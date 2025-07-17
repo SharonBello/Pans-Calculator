@@ -50,7 +50,7 @@
     "column": { "topic": "תחום" }
   },
   "associated": {
-    "assoc_separation": { "label": "חרדת פרידה – צורך להישאר קרוב לאדם, מקום מוכר או חפץ." },
+    "assoc_separation": { "label": "חרדת פרידה/נטישה – צורך להישאר קרוב לאדם, מקום מוכר או חפץ." },
     "assoc_general_anxiety": { "label": "חרדה כללית." },
     "assoc_phobias": { "label": "פחדים לא רציונליים ו/או פוביות ללא בסיס ממשי." },
     "assoc_panic": { "label": "התקפי פאניקה." },
